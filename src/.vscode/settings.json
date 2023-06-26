@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\juanm\\OneDrive\\Documents\\selenium driver\\selenium-server-4.10.0.jar"
+    ]
+}
